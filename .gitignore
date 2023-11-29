@@ -36,3 +36,4 @@
 
 #By default your app saves all your images locally, which is fine during development, but we don’t want to save them with your app source code
 public/uploads/
+*.png
